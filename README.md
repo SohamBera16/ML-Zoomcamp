@@ -12,3 +12,5 @@ The homework questions can be found here - https://github.com/alexeygrigorev/mlb
 
 ### My submission: 
 https://github.com/SohamBera16/ML-Zoomcamp/blob/main/MLZoomcamp_HW_Week2.ipynb
+
+## Module 3: Machine Learning for classification
