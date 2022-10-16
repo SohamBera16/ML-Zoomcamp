@@ -28,5 +28,5 @@ The homework questions can be found here - https://github.com/alexeygrigorev/mlb
 
 ### My submission: To be updated
 
-## Module 6: Decision Trees 
+## Module 6: Decision Trees and 
 
