@@ -34,6 +34,6 @@ The homework questions can be found here - https://github.com/alexeygrigorev/mlb
 ### My submission: To be updated 
 
 ## Module 7: Production ready Machine Learning (Bento ML)
-The homework questions can be found here - 
+The homework questions can be found here - https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/07-bento-production/homework.md
 
 ### My submission: To be updated 
