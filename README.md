@@ -33,7 +33,7 @@ The homework questions can be found here - https://github.com/alexeygrigorev/mlb
 
 ### My submission: To be updated 
 
-## Module 7: Production ready 
+## Module 7: Production ready Machine 
 The homework questions can be found here - https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/06-trees/homework.md
 
 ### My submission: To be updated 
