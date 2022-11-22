@@ -48,4 +48,4 @@ The homework questions can be found here - https://github.com/alexeygrigorev/mlb
 
 ### My submission: To be updated
 
-## Module 10: 
+## Module 10: Kubernetes and TensorFlow Serving
