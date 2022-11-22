@@ -39,4 +39,4 @@ The homework questions can be found here - https://github.com/alexeygrigorev/mlb
 ### My submission: To be updated 
 
 ## Module 8: Deep Learning
-The homework questions can be found here -
+The homework questions can be found here - https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/08-deep-learning/homework.md
